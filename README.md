@@ -31,3 +31,6 @@ print(inside / (inside + outside) * 4)
 
 ### Ergebnis
 Das Ergebnis ist sehr nahe an π/4 bzw. an π. Je mehr Punkte generiert werden, desto näher kommt das Ergebnis an π heran.
+
+### Visualisierung
+![Kreis im Quadrat](grafisch.png)
