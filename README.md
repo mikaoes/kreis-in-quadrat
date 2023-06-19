@@ -11,7 +11,9 @@ $$ P = \frac{A_{Inkreis}}{A_{Quadrat}} = \frac{\pi r^2}{(2r)^2} = \frac{\pi}{4} 
 ### Simulation
 1. Punkt generieren
 2. Prüfen ob Punkt im Inkreis liegt
-$$ x^2 + y^2 \leq r^2 $$
+
+$$ x^2 + y^2 \leq r $$
+
 3. Anzahl der Punkte im Inkreis zählen
 
 ````python
